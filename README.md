@@ -54,7 +54,7 @@ All the labels and other sensitive information has been masked to respect the No
 
 ![image](https://cloud.githubusercontent.com/assets/15162486/17230121/68a70782-54cf-11e6-9197-62938d4394e4.png)
 
-![image](https://cloud.githubusercontent.com/assets/15162486/17230122/68a89b9c-54cf-11e6-85df-590a04e225f2.png)
+![image](https://cloud.githubusercontent.com/assets/15162486/17237271/f57c9e1c-5504-11e6-8d77-eb780137c489.png)
 
 ![image](https://cloud.githubusercontent.com/assets/15162486/17230123/68ac21ae-54cf-11e6-904c-919313904feb.png)
 
